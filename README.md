@@ -7,7 +7,7 @@ Sales analysis project for two assigned EmporiUm territories using Python and Ju
 
 ## Video Walkthrough
 
-*[Video link coming soon]*
+*https://drive.google.com/file/d/1jyIuC8O-LKxoqwl1PDxt5WNvDltnBH2l/view?usp=sharing*
 
 
 ## Project File
